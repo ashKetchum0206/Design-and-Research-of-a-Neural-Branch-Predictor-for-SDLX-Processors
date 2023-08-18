@@ -1,1 +1,1 @@
-# Design-and-Research-of-a-Neural-Branch-Predictor-for-SDLX-Processors
+This paper talks about branch predictors and their importance in pipelined processors. The utility of neural branch predictors is discussed, along with a design to use the neural branch predictor with 2 stage SDLX processors.
